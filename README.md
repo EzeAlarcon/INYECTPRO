@@ -6,3 +6,11 @@ simplifica tu experiencia como padre y proveedor de servicios con nuestra herram
 
 ![image](https://github.com/EzeAlarcon/INYECTPRO/assets/138638611/14c89708-6daf-42bf-b0fa-65a8ebd2f547)
 ![image](https://github.com/EzeAlarcon/INYECTPRO/assets/138638611/f8c9886c-6cee-471b-bfbf-de1ebcd23297)
+
+
+#INSTALACION
+GIT CLONE https://github.com/EzeAlarcon/INYECTPRO.git
+cd autoinject
+pip install -r requirements.txt
+sudo chmod 777 autoinject.py requirements.txt
+python3 autoinject.py
